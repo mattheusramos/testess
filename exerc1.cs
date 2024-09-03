@@ -11,7 +11,7 @@ int soma = A + B;
 System.Console.WriteLine(soma);
 
 if(soma < C){
-    System.Console.WriteLine("A soma de A + B é menor que C!");
+    System.Console.WriteLine("A soma de A + B é menor que CCCCCCCCCCCCCCCCCCCCCCCCCC!");
 }else{
     System.Console.WriteLine("A soma dos valores é maior que C!");
 }
