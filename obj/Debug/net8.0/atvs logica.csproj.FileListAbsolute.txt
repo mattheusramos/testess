@@ -1,0 +1,14 @@
+C:\Users\mathe\Desktop\atvs logica\bin\Debug\net8.0\atvs logica.exe
+C:\Users\mathe\Desktop\atvs logica\bin\Debug\net8.0\atvs logica.deps.json
+C:\Users\mathe\Desktop\atvs logica\bin\Debug\net8.0\atvs logica.runtimeconfig.json
+C:\Users\mathe\Desktop\atvs logica\bin\Debug\net8.0\atvs logica.dll
+C:\Users\mathe\Desktop\atvs logica\bin\Debug\net8.0\atvs logica.pdb
+C:\Users\mathe\Desktop\atvs logica\obj\Debug\net8.0\atvs logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\atvs logica\obj\Debug\net8.0\atvs logica.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\atvs logica\obj\Debug\net8.0\atvs logica.AssemblyInfo.cs
+C:\Users\mathe\Desktop\atvs logica\obj\Debug\net8.0\atvs logica.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\atvs logica\obj\Debug\net8.0\atvs logica.dll
+C:\Users\mathe\Desktop\atvs logica\obj\Debug\net8.0\refint\atvs logica.dll
+C:\Users\mathe\Desktop\atvs logica\obj\Debug\net8.0\atvs logica.pdb
+C:\Users\mathe\Desktop\atvs logica\obj\Debug\net8.0\atvs logica.genruntimeconfig.cache
+C:\Users\mathe\Desktop\atvs logica\obj\Debug\net8.0\ref\atvs logica.dll
